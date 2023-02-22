@@ -1,0 +1,10 @@
+freeze-permission: command.freeze
+
+frozen-message:
+  - "&7&m----------------------------------"
+  - "&bYou are currently frozen,"
+  - "&bPlease join this teamspeak &7ts.example.org"
+  - "&band download &3Echo &bwhile you're at it,"
+  - "&busing this URL:"
+  - "&7https://dl.echo.ac/%echocode%"
+  - "&7&m----------------------------------"

@@ -1,0 +1,10 @@
+name: EchoFreeze
+version: '1.0'
+main: me.idiots.echofreeze.EchoFreeze
+load: STARTUP
+authors: [ 2x12, Greedily ]
+description: Freeze players using an Echo Code
+commands:
+  freeze:
+    description: Freeze players
+    aliases: [ss, screenshare, efreeze, ess, escreenshare]

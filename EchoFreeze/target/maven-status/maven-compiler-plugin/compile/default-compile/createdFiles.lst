@@ -1,0 +1,4 @@
+me\idiots\echofreeze\EchoFreeze.class
+me\idiots\echofreeze\commands\FreezeCommand.class
+me\idiots\echofreeze\ConfigManager.class
+me\idiots\echofreeze\listeners\FrozenListener.class
